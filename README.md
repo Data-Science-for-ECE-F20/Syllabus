@@ -1,3 +1,3 @@
 # Syllabus
 
-This repository contains the course syllabus: EEE 4773 Fundamentals of Machine Learning, Fall 2020.
+This repository contains the course syllabus: EEL 4930 Data Science for ECE, Fall 2020.
